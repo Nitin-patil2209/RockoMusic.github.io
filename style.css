@@ -1,0 +1,163 @@
+body{
+	margin: 0;
+	background-color: #F2EEB3;
+	font-family: 'Kanit', sans-serif;
+	color: #F2C9DC;
+	line-height: 2;
+
+	/*text-align: center;*/
+}
+h1{
+	font-family: 'Russo One', sans-serif;
+}
+a{
+	text-decoration: none;
+	
+}
+/*caousel images*/
+.coimg{
+	width: 40%;
+	border-radius: 10%;
+}
+
+
+.topcon{
+	padding-top: 5%;
+}
+.navitem{
+	padding: 18px 20px 18px 20px;
+}
+.middleimg{
+	height: 10%;
+	width: 100%;
+    
+}
+.toph1h3{
+margin-left: 3%;
+
+line-height: 2.5rem;
+}
+
+/*Navbar brand title*/
+.nbcss{
+	font-size: 2rem;
+}
+
+/*ganpati img*/
+.fimg{
+	width: 40%;
+	margin-left: 60%; 
+	margin-bottom: 20%;
+	transform: rotateZ(40deg);
+}
+/*All container margin*/
+.allmargin{
+	margin-bottom: 8%;
+}
+
+.top{
+	/*background-color: red;*/
+	background-color:#F20505;
+
+}
+.top h1 {
+	margin-top: 10%;
+}
+
+.middle{
+	text-align: center;
+	padding:5% 0 10%; 
+	background-color:#F2133C;
+}
+/*second middle*/
+.smiddle{
+	
+    text-align: center;
+    padding:8% 0 10%; 
+    background-color:#F27798;
+}
+
+.bottom{
+	text-align: center;
+	padding:3% 0 3%; 
+		background-color:#BF0404;
+}
+/*white text hover*/
+.texthover:hover{
+	color:red ;
+}
+
+.top1{
+	
+   padding: 5% 1% 5% 1%;
+
+   background-color: #A6341B;
+   
+}
+/*music*/
+.card{
+margin: 5% 5% 5% 5%; 
+}
+.song{
+	margin: 1% 5% 5% 5%;
+}
+.card-body i{
+	
+	color: #FFF587;
+}
+
+.fai{
+	padding: 6px;
+}
+
+.card-body i:hover{
+ color: #F2E205;
+}
+.cimg{
+  height: 236px;
+  width: 242px;
+}
+
+.stopbtn{
+	margin-left: 5%;
+}
+
+.contactcolor{
+	color: white;
+}
+#myaudio{
+
+}
+#w{
+
+}
+#a{
+
+}
+#s{
+
+}
+#d{
+	
+}
+
+#ww{
+
+}
+#aa{
+
+}
+#ss{
+
+}
+#dd{
+	
+}
+
+#mail{
+
+}
+
+#tele{
+	
+}
